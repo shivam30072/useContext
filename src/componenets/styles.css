@@ -1,0 +1,59 @@
+.heading{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    background-color: black;
+    color: turquoise;
+}
+
+.inside-nav{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+a:hover{
+    color: turquoise;
+}
+
+.homepage{
+    position: absolute;
+    top: 90px;
+}
+
+.colors{
+    display: inline-flex;
+    flex-direction: column;
+   
+  
+}
+
+.clr{
+    padding: 5px;
+    margin: 5px
+}
+
+.details{
+    padding: 5px;
+    margin: 5px;
+}
+
+.cart-component{
+    position: absolute;
+    top: 90px;
+}

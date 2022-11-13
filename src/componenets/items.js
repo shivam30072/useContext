@@ -1,0 +1,22 @@
+export const items=[
+    {"id":984,"name":"slim shady","price":821,"colour":"#d7f94d"},
+    {"id":772,"name":"goat","price":438,"colour":"#e4ea3f"},
+    {"id":808,"name":"red","price":2195,"colour":"#94efc2"},
+    {"id":868,"name":"pinky","price":1391,"colour":"#5deac2"},
+    {"id":482,"name":"black","price":1816,"colour":"#f9b434"},
+    {"id":960,"name":"goat","price":2844,"colour":"#68ff9f"},
+    {"id":477,"name":"divine","price":493,"colour":"#85e537"},
+    {"id":807,"name":"goat","price":1914,"colour":"#f96e5c"},
+    {"id":532,"name":"pink","price":2039,"colour":"#88e8c1"},
+    {"id":573,"name":"slim shady","price":2298,"colour":"#b2ffe6"},
+    {"id":526,"name":"bunty","price":2166,"colour":"#d4fca6"},
+    {"id":324,"name":"ronaldo","price":1069,"colour":"#c7d1fc"},
+    {"id":506,"name":"red","price":2855,"colour":"#169eaa"},
+    {"id":127,"name":"pinky","price":356,"colour":"#4fb9bc"},
+    {"id":997,"name":"goat","price":2067,"colour":"#dd5fd1"},
+    {"id":305,"name":"goat","price":2310,"colour":"#9e1614"},
+    {"id":538,"name":"white","price":2873,"colour":"#dbd64a"},
+    {"id":75,"name":"white","price":1005,"colour":"#ee79f2"},
+    {"id":327,"name":"blue","price":2812,"colour":"#6910b2"},
+    
+   ];
